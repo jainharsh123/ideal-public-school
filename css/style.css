@@ -1,0 +1,226 @@
+body {
+  font-family: "Inria Serif", serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Slab", serif;
+}
+
+.text-green {
+  color: #28A745 !important;
+}
+
+.signup-button {
+  background-color: #28A745;
+  padding: 9px 12px;
+  border-radius: 8px;
+  border: 0px;
+  color: white;
+  gap: 3px;
+  height: 43px;
+  width: 115px;
+}
+
+.navigator a {
+  color: black !important;
+}
+
+.navigator i {
+  width: 27px;
+  height: 24px;
+}
+
+.sclInfo {
+  margin-top: 100px;
+  padding: 20x;
+  box-shadow: 0px 0px 0px 0px;
+}
+
+.sclInfo .signup-button {
+  width: 130px;
+}
+
+.hero {
+  background-image: url(./images/bgImg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 10px;
+  position: relative;
+  padding-bottom: 114px;
+}
+
+.hero .card {
+  position: absolute;
+  margin-top: 29px;
+  margin-right: 87px;
+}
+
+.hero .card p {
+  margin-bottom: 0 !important;
+  font-size: 14px;
+}
+
+.hero .card .logo img {
+  width: 250px;
+  margin-left: 22px;
+}
+
+.heading {
+  font-size: 60px;
+  line-height: 79px;
+  color: white;
+}
+
+.pramotion {
+  font-size: 20px;
+  color: white;
+}
+
+.connect button {
+  background-color: #28A745;
+  border-radius: 8px;
+  padding: 10px;
+  border: 0;
+  color: white;
+}
+
+.tabs-section {
+  margin-top: 83px;
+  text-align: center;
+}
+
+.tabs-section .nav-pills .nav-link.active, .tabs-section .nav-pills .show > .nav-link {
+  color: white !important;
+  background-color: #28A745;
+}
+
+.tabs-section .tab a {
+  color: gray;
+}
+
+.tabs-section .line {
+  display: inline-block;
+  margin-top: 10px;
+  width: 193px;
+  margin: 0 auto;
+  background-color: #28A745;
+  height: 3px;
+}
+
+.tabs-section p {
+  margin-bottom: 0 !important;
+  font-size: 15px;
+}
+
+.foot {
+  margin-top: 20px;
+  padding: 25px;
+  background: linear-gradient(210.37deg, rgba(16, 54, 123, 0.88) 21.73%, rgba(16, 54, 123, 0) 132.48%);
+}
+
+.foot li {
+  margin-bottom: 1px;
+}
+
+.foot a, .foot p, .foot h4 {
+  color: white !important;
+}
+
+.foot p {
+  margin-bottom: 0 !important;
+  font-size: 15px;
+} 
+.btn {
+  padding: 6px 16px;
+  font-size: 0.9rem;
+}
+
+button {
+  background-color: #03B97C;
+}
+
+.control-next, .control-prev {
+  position: absolute;
+  right: -700px;
+  z-index: 1;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  color: #fff;
+  background: #03B97C;
+  opacity: 1;
+  transition: opacity 0.15s ease;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  border: none;
+}
+
+.control-prev {
+  right: -600px;
+}
+
+#signinform {
+  position: fixed;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  width: 60%;
+  top: 144px;
+  background: white;
+  z-index: 999;
+}
+
+#UserLoginPage {
+  position: fixed;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  top: 27px;
+  background: white;
+  z-index: 999;
+}
+
+#signupform {
+  background-image: url(../images/gulshan-img/image13.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: fixed;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  top: 27px;
+  z-index: 999;
+}
+#signupform form .row {
+  padding: 30px;
+}
+#signupform button {
+  width: 110px;
+  height: 40px;
+  background-color: #03B97C;
+}
+#signupform form label {
+  color: #03B97C;
+}
+#signupform li {
+  margin-bottom: 50px;
+}
+#signupform li button {
+  width: 290px;
+  height: 60px;
+}
+
+.staff-info {
+  margin-top: 125px;
+}
+
+#UserLoginPage li {
+  margin-bottom: 50px;
+}
+#UserLoginPage li button {
+  width: 290px;
+  height: 60px;
+}/*# sourceMappingURL=style.css.map */

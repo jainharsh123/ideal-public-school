@@ -1,0 +1,25 @@
+<svg width="15" height="24" viewBox="0 0 15 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="15" height="24" fill="#F5F5F5"/>
+<g filter="url(#filter0_d_0_1)">
+<rect x="-777" y="-152" width="1000" height="480" rx="8" fill="white"/>
+<rect x="-312" y="-27" width="367" height="78" rx="3" fill="white"/>
+<rect width="15" height="24" fill="url(#pattern0)"/>
+<rect x="-312" y="-27" width="367" height="78" rx="3" stroke="#03B97C" stroke-width="2"/>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-1027" y="-402" width="1500" height="980" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="125"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.17 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_0_1" transform="matrix(0.0111111 0 0 0.00694444 0 0.1875)"/>
+</pattern>
+<image id="image0_0_1" width="90" height="90" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAACXBIWXMAAAsTAAALEwEAmpwYAAABG0lEQVR4nO3avUoDURSF0W2KRMUnt7EQwdj4DhbqO1ko/qU0DEwlZqaYOycmrAXThuHjckhuTgIAAAAAAAAAAABH5yzJOslnkpckl0lW+36pY7RO8vPreRS7rZMkH3+EFnsG7ztCi93Y1UBosRta9TNZ7ALLJA8jsZ+TnFa8zLFbil1H7EJiFxK7kNiFxC4k9iHGPk9yk+Rt5MM8Gf0FORj7VsS0OkR3uyIvknwLnVahv/qmQmdPoY2ONA3djeHB/82uk7waIZkS+ckN3zS+SxcQuYDIBUQuIHIBkQuIXEDkAiL/owUaOx0TdVcPIs9s0d+2OckFoTcD48JCekP3Ite46GNv+qX0bo3XSZ55+x8AAAAAAAAAACCHZwumR9YV2CkXmwAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
